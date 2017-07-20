@@ -1,0 +1,7 @@
+Name: kodkod
+Specification-Title: Kodkod API (with arithmetic overflow prevention and higher-order solving extensions)
+Specification-Version: 2.0.1
+Specification-Vendor: Emina Torlak
+Implementation-Title: Kodkod API
+Implementation-Version: 2.0
+Implementation-Vendor: Emina Torlak

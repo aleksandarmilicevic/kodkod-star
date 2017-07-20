@@ -1,0 +1,5 @@
+bin
+dist
+.settings
+*.lock-waf*
+lib/**/build
